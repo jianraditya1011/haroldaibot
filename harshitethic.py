@@ -30,7 +30,7 @@ timstart = 300
 tim = 1
 
 #Defaults
-user = ""
+user = "5287459520"
 running = False
 cache = None
 qcache = None
